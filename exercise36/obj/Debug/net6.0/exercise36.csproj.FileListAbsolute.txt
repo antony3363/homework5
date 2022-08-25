@@ -1,0 +1,15 @@
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\bin\Debug\net6.0\exercise36.exe
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\bin\Debug\net6.0\exercise36.deps.json
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\bin\Debug\net6.0\exercise36.runtimeconfig.json
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\bin\Debug\net6.0\exercise36.dll
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\bin\Debug\net6.0\exercise36.pdb
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\obj\Debug\net6.0\exercise36.csproj.AssemblyReference.cache
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\obj\Debug\net6.0\exercise36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\obj\Debug\net6.0\exercise36.AssemblyInfoInputs.cache
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\obj\Debug\net6.0\exercise36.AssemblyInfo.cs
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\obj\Debug\net6.0\exercise36.csproj.CoreCompileInputs.cache
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\obj\Debug\net6.0\exercise36.dll
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\obj\Debug\net6.0\refint\exercise36.dll
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\obj\Debug\net6.0\exercise36.pdb
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\obj\Debug\net6.0\exercise36.genruntimeconfig.cache
+C:\Users\nhe99\Desktop\програмирование\C#\C#homework5\exercise36\obj\Debug\net6.0\ref\exercise36.dll
